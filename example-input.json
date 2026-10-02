@@ -1,0 +1,18 @@
+{
+  "example_only": true,
+  "assumed_density_kg_m3": 600,
+  "sections": [
+    {
+      "id": "A",
+      "internal_diameter_m": 0.2,
+      "length_per_line_m": 800,
+      "number_of_lines": 2
+    },
+    {
+      "id": "B",
+      "internal_diameter_m": 0.15,
+      "length_per_line_m": 100,
+      "number_of_lines": 1
+    }
+  ]
+}

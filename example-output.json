@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "id": "A",
+      "volume_m3": 50.2654824574367,
+      "hypothetical_inventory_kg": 30159.289474462017
+    },
+    {
+      "id": "B",
+      "volume_m3": 1.7671458676442586,
+      "hypothetical_inventory_kg": 1060.2875205865553
+    }
+  ],
+  "total_volume_m3": 52.03262832508096,
+  "hypothetical_inventory_kg": 31219.576995048574,
+  "density_basis": "Supplied assumption; no thermodynamic state verified."
+}
